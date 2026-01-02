@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/l0IylOPCNkiqgHF8Q/giphy.gif" width="100%"/>
   <h1>Hi there, I'm Othmane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <h3>Full Stack Developer | Mobile App Enthusiast | Automation Lover</h3>
 </div>
