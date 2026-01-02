@@ -9,7 +9,6 @@
   
   Please feel free to clone my projects and use them as you wish!
   
-  Thinking about hiring me?
   
   [<img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/othmanemoussawi/) <!-- You might want to update this link later -->
 </div>
