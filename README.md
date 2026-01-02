@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/E_59GPc3zZQAAAAd/roman-roy-succession.gif" width="50%"/>
+  <img src="https://media1.tenor.com/m/E_59GPc3zZQAAAAd/roman-roy-succession.gif" width="35%"/>
   <h1>Hi there, I'm Othmane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
   <h3>Full Stack Developer | Mobile App Enthusiast | Automation Lover</h3>
 </div>
