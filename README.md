@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://media1.tenor.com/m/E_59GPc3zZQAAAAd/roman-roy-succession.gif" width="35%"/>
-  <h1>Hi there, I'm Othmane! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
-  <h3>Full Stack Developer | Mobile App Enthusiast | Automation Lover</h3>
+  <h1> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 ---
@@ -22,7 +21,7 @@
 I'm a passionate developer focused on creating intuitive mobile applications and robust backend systems. I enjoy solving complex problems, from optimizing database queries to designing seamless user experiences in React Native.
 
 *   🔭 I’m currently working on **CryptoWatch** and **QFlow (Queue Management System)**.
-*   🌱 I’m currently learning more about **Advanced Agentic AI** and **Cybersecurity**.
+*   🌱 I’m currently learning more about **Advanced Agentic AI** .
 *   💬 Ask me about **React Native, C#, & Python**.
 
 ---
