@@ -59,7 +59,9 @@ I'm a passionate developer focused on creating intuitive mobile applications and
 
 ---
 
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OthmaneW37&show_icons=true&theme=radical" alt="OthmaneW37's GitHub stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OthmaneW37&layout=compact&theme=radical" alt="Top Langs" />
 </div>
+-->
