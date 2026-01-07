@@ -19,7 +19,7 @@
 
 I'm a passionate developer focused on creating intuitive mobile applications and robust backend systems. I enjoy solving complex problems, from optimizing database queries to designing seamless user experiences in React Native.
 
-*   🔭 I’m currently working on **CryptoWatch** and **QFlow (Queue Management System)**.
+*   🔭 I’m currently working on **QFlow (Queue Management System)**.
 *   🌱 I’m currently learning more about **Advanced Agentic AI** .
 *   💬 Ask me about **React Native, C#, & Python**.
 
@@ -43,17 +43,6 @@ I'm a passionate developer focused on creating intuitive mobile applications and
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
----
-
-### 💻 Current & Recent Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **CryptoWatch** | A React Native app to track crypto assets, manage favorites, and monitor market trends. | React Native, Expo, Axios |
-| **QFlow** | Mobile queue management system with offline capabilities and Firebase sync. | React Native, Firebase, SQLite |
-| **Skipera** | Automation tool for educational platforms, handling quizzes and content. | Python, Selenium, GraphQL |
-| **GestionCentreFormation** | Comprehensive management system for educational centers. | C#, .NET, PlantUML |
-| **LucidSelect** | Chrome extension for productivity and text selection tools. | JavaScript, Chrome API |
 
 ---
 
