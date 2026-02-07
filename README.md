@@ -6,8 +6,11 @@
 ---
 
 <div align="center">
-  [<img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/othmanemoussawi/) <!-- You might want to update this link later -->
+
+[![Contact Me](https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmanemoussawi/)
+
 </div>
+
 
 ### 🛠️ Languages and Tools
 
