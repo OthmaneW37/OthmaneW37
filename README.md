@@ -6,24 +6,8 @@
 ---
 
 <div align="center">
-  
-  Please feel free to clone my projects and use them as you wish!
-  
-  
   [<img src="https://img.shields.io/badge/Contact-Me-blue?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/othmanemoussawi/) <!-- You might want to update this link later -->
 </div>
-
----
-
-### 🚀 About Me
-
-I'm a passionate developer focused on creating intuitive mobile applications and robust backend systems. I enjoy solving complex problems, from optimizing database queries to designing seamless user experiences in React Native.
-
-*   🔭 I’m currently working on **QFlow (Queue Management System)**.
-*   🌱 I’m currently learning more about **Advanced Agentic AI** .
-*   💬 Ask me about **React Native, C#, & Python**.
-
----
 
 ### 🛠️ Languages and Tools
 
