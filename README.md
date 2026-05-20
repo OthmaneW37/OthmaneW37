@@ -25,10 +25,8 @@ focus:
   - Full-Stack Web & Mobile Development
   - Artificial Intelligence & Machine Learning
   - Backend Systems & APIs
-languages: [French, English, Arabic, Russian]
+languages: [French, English, Arabic]
 currently_working_on: Multi-Agent RAG systems & AI-powered apps
-looking_for: Remote opportunities in France 🇫🇷
-fun_fact: I debug code and Botola scores at the same time ⚽
 ```
 
 ---
