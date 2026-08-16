@@ -5,7 +5,7 @@
 ### AI & Data Engineering Student
 **Machine Learning · Generative AI · Agentic AI · RAG · Knowledge Graphs · Data Engineering**
 
-Casablanca, Morocco · Seeking a **6-month PFE internship for 2027**
+Casablanca, Morocco · Seeking a **6-month PFE internship in France — 2027**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Othmane%20Moussawi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/othmanemoussawi/)
 [![GitHub](https://img.shields.io/badge/GitHub-OthmaneW37-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/OthmaneW37)
@@ -27,15 +27,16 @@ My recent work spans **data engineering**, **multi-agent RAG**, **hybrid graph/v
 
 | Project | What it does | Stack |
 |---|---|---|
+| [**AI Gateway**](https://github.com/OthmaneW37/AI-Gateway) | Unified LLM gateway exposing multiple providers through a consistent API with retries, fallbacks, routing, structured output and streaming. | Python · FastAPI · HTTPX · Pydantic · SSE · Pytest · Docker |
 | [**AnalyticsNews**](https://github.com/OthmaneW37/AnalyticsNews) | End-to-end multilingual news data platform with Bronze/Silver/Gold layers, streaming, orchestration, NLP enrichment and an analytics dashboard. | Python · Kafka · Airflow · MinIO · DuckDB · BERTopic · FastAPI · Docker · Kubernetes · Next.js |
 | [**WAC Sport Analytics**](https://github.com/OthmaneW37/multi-agent-rag) | Multi-agent RAG pipeline for tactical football analysis with specialized Scout, Modeler, Tactician and Validator agents. | Python · LangChain · LlamaIndex · ChromaDB · FastAPI |
-| [**Knowledge Graph RAG**](https://github.com/OthmaneW37/knowledge-graph-rag) | Hybrid retrieval combining graph relationships and semantic vector search for grounded LLM answers. | Python · Neo4j · LlamaIndex · RAG |
 | [**FraudIA**](https://github.com/OthmaneW37/FraudIA) | End-to-end fraud detection system with imbalanced-learning, explainability and model evaluation. | Python · Scikit-learn · XGBoost · SHAP · Pandas · SMOTE |
 
 ---
 
 ## Also Building
 
+- [**Knowledge Graph RAG**](https://github.com/OthmaneW37/knowledge-graph-rag) — hybrid retrieval combining graph relationships and semantic vector search for grounded LLM answers.
 - [**Literary Knowledge Graph**](https://github.com/OthmaneW37/Literary-Knowledge-Graph) — local literary assistant with BM25, Ollama, verifiable citations and optional Neo4j graph retrieval.
 - [**LucidSelect**](https://github.com/OthmaneW37/LucidSelect) — Chrome extension for contextual LLM queries directly from selected webpage text.
 - [**Moments**](https://github.com/OthmaneW37/Moments) — full-stack social memory app built with FastAPI and React, with PWA and image-analysis features.
